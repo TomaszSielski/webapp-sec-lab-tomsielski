@@ -17,4 +17,3 @@ This repository is intended as a laboratory environment for experimenting with a
 ---
 
 **Disclaimer:** This repository is for educational purposes only. Do not use these techniques or apps against systems you do not own or have explicit permission to test.# webapp-sec-lab-tomsielski
-This repository is intended as a laboratory environment for experimenting with and learning about web application security.
