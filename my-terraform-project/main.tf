@@ -1,1 +1,3 @@
-name
+provider "azurerm"{
+  features {}
+}
