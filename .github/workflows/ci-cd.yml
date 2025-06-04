@@ -1,1 +1,6 @@
 name: CI-DC
+on:
+  push:
+    paths:
+      - "app/**"
+  workflow_dispatch:
